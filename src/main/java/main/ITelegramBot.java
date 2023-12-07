@@ -11,7 +11,7 @@ import java.util.List;
 
 public class ITelegramBot extends TelegramLongPollingBot {
     // 在BotFather那里获得的Token
-    private final String botToken = "6840909966:AAF54dg5pISZ__6FRut8w0Zm4dz1BGFXgcY";
+    private final String botToken = "68等等等966:AAF一大串cY";
     // Bot的用户名
     private final String botUsername = "izualTGbot";
 
