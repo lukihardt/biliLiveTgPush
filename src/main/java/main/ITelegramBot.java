@@ -69,6 +69,6 @@ public class ITelegramBot extends TelegramLongPollingBot {
 //    public static void main(String[] args) {
 //        ITelegramBot bot=new ITelegramBot();
 //        bot.botConnect();
-//        bot.sendTextMessage(-1002117523401L, "hello");
+//        bot.sendTextMessage(-100一大串1L, "hello");
 //    }
 }
